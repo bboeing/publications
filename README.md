@@ -1,1 +1,11 @@
-# publications
+# Publications
+
+This repository contains links to my publications as well as links to code associated with them.
+
+https://ls9-www.cs.tu-dortmund.de/publications/ICDM2022.pdf
+
+https://overlay.uniud.it/workshop/2022/papers/paper01.pdf
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10032334
+
+https://www.researchgate.net/profile/Rajarshi-Roy-5/publication/349557128_Quality_Guarantees_for_Autoencoders_via_Unsupervised_Adversarial_Attacks/links/603e35f292851c077f0eeced/Quality-Guarantees-for-Autoencoders-via-Unsupervised-Adversarial-Attacks.pdf
