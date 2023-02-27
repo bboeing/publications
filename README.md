@@ -18,7 +18,7 @@ On Training and Verifying Robust Autoencoders, DSAA 2022 <br />
 
 Benedikt Böing, Rajarshi Roy, Emmanuel Müller, Daniel Neider <br />
 Quality Guarantees for Autoencoders via Unsupervised Adversarial Attacks, ECML/PKDD 2020 <br />
-[Paper](https://www.researchgate.net/profile/Rajarshi-Roy-5/publication/349557128_Quality_Guarantees_for_Autoencoders_via_Unsupervised_Adversarial_Attacks/links/603e35f292851c077f0eeced/Quality-Guarantees-for-Autoencoders-via-Unsupervised-Adversarial-Attacks.pdf) <br />
+[Paper](https://ls9-www.cs.tu-dortmund.de/publications/ECMLPKDD2020.pdf) <br />
 [Github](https://github.com/KDD-OpenSource/QUGA)
 
 
