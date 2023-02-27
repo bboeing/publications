@@ -2,8 +2,10 @@
 
 This repository contains links to my publications as well as links to code associated with them.
 
-https://ls9-www.cs.tu-dortmund.de/publications/ICDM2022.pdf
-https://github.com/KDD-OpenSource/Robustify
+Benedikt Böing, Simon Klüttermann, Emmanuel Müller
+Post-Robustifying Deep Anomaly Detection Ensembles by Model Selection, ICDM 2022
+[Paper](https://ls9-www.cs.tu-dortmund.de/publications/ICDM2022.pdf)
+[Githublink](https://github.com/KDD-OpenSource/Robustify)
 
 https://overlay.uniud.it/workshop/2022/papers/paper01.pdf
 
